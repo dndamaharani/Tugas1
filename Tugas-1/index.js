@@ -1,4 +1,5 @@
 // Kalkulator sederhana
+
 const readline = require("readline");
 const {
   tambah,
